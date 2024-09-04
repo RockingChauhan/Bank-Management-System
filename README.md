@@ -1,4 +1,4 @@
-# Ban Management System (ATM Simulator)
+# Bank Management System (ATM Simulator)
 
 ## Overview
 
