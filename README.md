@@ -61,4 +61,4 @@ Contributions are welcome! Please follow these steps to contribute:
 
 ## Contact
 
-For any inquiries or issues, feel free to reach out to sudhanshuchuahan.dev@gmail.com(sudhanshuchauhan.dev@gmail.com).
+For any inquiries or issues, feel free to reach out to sudhanshuchuahan.dev@gmail.com.
